@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nathan
 #### Test Engineer & Tired Dad
-![Test Engineer & Tired Dad](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Test Engineer & Tired Dad]
 
 Here to showcase, develop and grow my learning journey and portfolio. 
 
