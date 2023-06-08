@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Nathan
 #### Test Engineer & Tired Dad
-![Test Engineer & Tired Dad]
 
 Here to showcase, develop and grow my learning journey and portfolio. 
 
