@@ -1,4 +1,4 @@
-Hi 👋 My name is Nathan Strang
+Hi 👋 My name is Nathan
 ==============================
 
 Test Engineer & Tired Dad
