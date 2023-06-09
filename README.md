@@ -4,8 +4,6 @@ Hi 👋 My name is Nathan
 Test Engineer & Tired Dad
 --------------------
 
-New to the field of testing with a desire to learn new languages, frameworks and skills.
-
 * 🌍  I'm based in Glasgow
 * 🧠  I'm learning Java, Python, C# with Games Dev and sprinkle of Web Dev for good measure 
 * 🤝  I'm open to collaborating on anything to learn new programming skills
