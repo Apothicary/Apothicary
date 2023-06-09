@@ -1,4 +1,4 @@
-Hi 👋 My name is Nathan
+Hi 👋 I'm Nathan
 ==============================
 
 Test Engineer & Tired Dad
