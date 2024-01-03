@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nathan!</h1>
 
 
-<h3 align="center">A Tired Dad, Software Engineer and Aspiring Games Dev from Glasgow, Scotland</h3>
+<h3 align="center">A Tired Dad, Software Engineer and Aspiring Games Developer from Glasgow, Scotland</h3>
 
 <p align="center">* 🧠 I'm currently learning Java, Python, C#, Blender & Unity </p>
 <p align="center">* ⚡ I have an interest in Game Development, Asset Creation and Environmental Design </p>
