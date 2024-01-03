@@ -1,33 +1,26 @@
-Hi 👋 I'm Nathan
-==============================
+<h1 align="center">Hi 👋 I'm Nathan!</h1>
 
-Test Engineer & Tired Dad
---------------------
 
-* 🌍  I'm based in Glasgow
-* 🧠  I'm learning Java, Python, C# with Games Dev and sprinkle of Web Dev for good measure 
-* 🤝  I'm open to collaborating on anything to learn new programming skills
-* ⚡  I have an interest in Game Development, Asset Creation and Environmental Design
+<h3 align="center">A Tired Dad, Software Engineer and Aspiring Games Dev from Glasgow, Scotland</h3>
 
-### Skills
+<p align="center">* 🧠 I'm currently learning Java, Python, C#, Blender & Unity </p>
+<p align="center">* ⚡ I have an interest in Game Development, Asset Creation and Environmental Design </p>
+<p align="center">* 🤝 I'm open to collaborating on anything to learn new programming skills </p>
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,selenium,py,cs,blender,unity&theme=dark" />
+  </a>
 </p>
 
+<h3 align="center"> Socials </h3>
 
-### Socials
-
-</a> <a href="https://www.linkedin.com/in/nstrang2i/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="center">
+</a > <a href="https://www.linkedin.com/in/nstrang2i/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://discord.com/users/Apothicary#1372" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+</p>
 
-### Badges
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/apothicary"><img src="https://github-readme-stats.vercel.app/api?username=apothicary&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="apothicary's GitHub stats" /></a>
-
-<a href="https://github.com/apothicary" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apothicary&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Apothicary&theme=dark" alt="Apothicary" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Apothicary&label=Profile%20views&color=0e75b6&style=flat" alt="Apothicary" /> </p>
